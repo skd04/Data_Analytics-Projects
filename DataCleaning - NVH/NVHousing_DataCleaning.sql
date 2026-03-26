@@ -296,3 +296,5 @@ FROM NVHousing;
 -- Drop columns no longer needed
 ALTER TABLE NVHousing
 DROP COLUMN OwnerFullAddress, TaxDistrict, PropertyAddress, SaleDate
+
+--- DONE ---
