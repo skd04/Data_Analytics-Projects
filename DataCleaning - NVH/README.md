@@ -1,5 +1,5 @@
 # Nashville Housing Data Cleaning — SQL Project
-
+---
 ## Project Overview
 
 This project focuses on cleaning and preparing a real-world housing dataset using Microsoft SQL Server. Raw datasets often contain inconsistencies, missing values, duplicate records, and formatting issues. The goal of this project is to transform messy data into a clean, structured format ready for analysis and visualization.
