@@ -1,4 +1,3 @@
-## PROJECT 1
 # COVID-19 Data Analysis using SQL Server
 
 ## Project Overview
