@@ -1,6 +1,3 @@
-# Data_Analytics-Projects
-I have all my data analytics projects here, from the beginning of my journey.
-
 ## PROJECT 1
 # COVID-19 Data Analysis using SQL Server
 
