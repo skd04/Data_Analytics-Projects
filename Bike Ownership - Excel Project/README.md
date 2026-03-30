@@ -1,5 +1,5 @@
-# Bike Ownership Analysis - EXCEL
-
+# Bike Ownership Analysis - EXCEL Project
+---
 ## Project Overview
 
 This project focuses on analyzing a bike ownership dataset to understand customer behavior and identify patterns that influence bike purchases.
